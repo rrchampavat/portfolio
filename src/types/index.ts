@@ -7,6 +7,8 @@ export interface IMetaHead {
 export interface IHeroProps {
   name: string;
   about: string;
+  mobile: string;
+  email: string;
 }
 
 export interface IExperience {

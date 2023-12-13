@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://portfolio-rutvikraj.vercel.app/",
   name: "Rutvikrajsinh Champavat",
   jobDescription: "Software Engineer",
   about: `👋 Welcome to my corner of the internet. 
@@ -9,7 +9,8 @@ export const info = {
   Feel free to check out my work – I'm all about cool projects and good vibes. 
   Let's chat and see how I can bring some coding magic to your team! 🚀✨.
   `,
-
+  email: "rrchampavat1110@gmail.com",
+  mobile: "+91 8000012801",
   experience: [
     {
       name: "Stack Summation",
@@ -52,7 +53,7 @@ export const info = {
   ],
 
   socialMedia: {
-    github: "https://github.com/uzzii-21",
+    // github: "https://github.com/uzzii-21",
     email: "rrchampavat1110@gmail.com",
     linkedin: "https://www.linkedin.com/in/rutvikrajsinh-champavat-4b483b168/",
   },
