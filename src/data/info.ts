@@ -29,7 +29,7 @@ export const info = {
       name: "Torinit Technologies",
       location: "Pune, Maharashtra, India",
       startDate: "Oct 2022",
-      endDate: "Present",
+      endDate: "Feb 2024",
       description: [
         "✓ Wrote performant, readable code for various applications",
         "✓ Debugged issues and refactored code for various features",
