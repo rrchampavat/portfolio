@@ -12,7 +12,8 @@ export const info = {
   email: "rrchampavat1110@gmail.com",
   mobile: "+91 8000012801",
   experience: [
-    {name: "Paroscale Technologies, location: "Pune, Maharashtra, India", startDate: "Feb 2024", endDate: "Currently working", description: ["✓ Contributed to improving the hosted website’s performance by around 20%", "✓ Reduced the build size of the project by 90%", "✓ Enhanced website responsiveness significantly", "✓ Revamped the folder structure to ensure project scalability"]}
+     {name: "Paroscale Technologies", location: "Pune, Maharashtra, India", startDate: "Feb 2024", endDate: "Currently working", description: ["✓ Contributed to improving the hosted website’s performance by around 20%", "✓ Reduced the build size of the project by 90%", "✓ Enhanced website responsiveness significantly", "✓ Revamped the folder structure to ensure project scalability"]}
+,
      {
       name: "Torinit Technologies",
       location: "Pune, Maharashtra, India",
