@@ -12,7 +12,7 @@ export const info = {
   email: "rrchampavat1110@gmail.com",
   mobile: "+91 8000012801",
   experience: [
-     {name: "Paroscale Technologies", location: "Pune, Maharashtra, India", startDate: "Feb 2024", endDate: "Currently working", description: ["✓ Contributed to improving the hosted website’s performance by around 20%", "✓ Reduced the build size of the project by 90%", "✓ Enhanced website responsiveness significantly", "✓ Revamped the folder structure to ensure project scalability"]}
+     {name: "Paroscale Technologies", location: "Pune, Maharashtra, India", startDate: "Feb 2024", endDate: "Current", description: ["✓ Contributed to improving the hosted website’s performance by around 20%", "✓ Reduced the build size of the project by 90%", "✓ Enhanced website responsiveness significantly", "✓ Revamped the folder structure to ensure project scalability"]}
 ,
      {
       name: "Torinit Technologies",
@@ -49,14 +49,14 @@ export const info = {
       location: "Vidyangar, Gujarat, India",
       startDate: "2017",
       endDate: "2021",
-      description: ["Bachelors in Engineering", "Computer Science"],
+      description: ["Bachelors in Engineering", "Computer Engineering"],
     },
   ],
 
   socialMedia: {
     // github: "https://github.com/uzzii-21",
     email: "rrchampavat1110@gmail.com",
-    linkedin: "https://www.linkedin.com/in/rutvikrajsinh-champavat-4b483b168/",
+    linkedin: "https://www.linkedin.com/in/rutvikrajsinh-champavat/",
   },
 
   projects: [
