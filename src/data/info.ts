@@ -12,20 +12,8 @@ export const info = {
   email: "rrchampavat1110@gmail.com",
   mobile: "+91 8000012801",
   experience: [
-    {
-      name: "Stack Summation",
-      location: "Ahmedabad, Gujarat, India",
-      startDate: "Dev 2021",
-      endDate: "Sept 2022",
-      description: [
-        "✓ Responsible for the development and implementation of web applications based on client requirements.",
-        "✓ Enhance and improve the existing system.",
-        "✓ Created responsive websites from scratch.",
-        "✓ Support and development of new functionality for already existing projects.",
-      ],
-    },
-
-    {
+    {name: "Paroscale Technologies, location: "Pune, Maharashtra, India", startDate: "Feb 2024", endDate: "Currently working", description: ["✓ Contributed to improving the hosted website’s performance by around 20%", "✓ Reduced the build size of the project by 90%", "✓ Enhanced website responsiveness significantly", "✓ Revamped the folder structure to ensure project scalability"]}
+     {
       name: "Torinit Technologies",
       location: "Pune, Maharashtra, India",
       startDate: "Oct 2022",
@@ -40,6 +28,18 @@ export const info = {
         "✓ Came up with solutions for existing issues",
       ],
     },
+    {
+      name: "Stack Summation",
+      location: "Ahmedabad, Gujarat, India",
+      startDate: "Dev 2021",
+      endDate: "Sept 2022",
+      description: [
+        "✓ Responsible for the development and implementation of web applications based on client requirements.",
+        "✓ Enhance and improve the existing system.",
+        "✓ Created responsive websites from scratch.",
+        "✓ Support and development of new functionality for already existing projects.",
+      ],
+    }
   ],
 
   education: [
