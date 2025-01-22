@@ -12,7 +12,7 @@ export const info = {
   email: "rrchampavat1110@gmail.com",
   mobile: "+91 8000012801",
   experience: [
-     {name: "Paroscale Technologies", location: "Pune, Maharashtra, India", startDate: "Feb 2024", endDate: "Current", description: ["✓ Contributed to improving the hosted website’s performance by around 20%", "✓ Reduced the build size of the project by 90%", "✓ Enhanced website responsiveness significantly", "✓ Revamped the folder structure to ensure project scalability"]}
+     {name: "Paroscale Technologies", location: "Pune, Maharashtra, India", startDate: "Feb 2024", endDate: "Current", description: ["✓ Improved website performance by approximately 20%, leading to faster page loads and better user experience.", "✓ Reduced the overall project build size by 90%, enhancing deployment efficiency and optimizing server resources.", "✓ Enhanced the responsiveness of web applications across various devices, achieving consistent design and usability.", "✓ Restructured the project folder system to ensure better scalability and maintainability for future development.", "✓ Designed an advanced caching system, decreasing redundant API calls by 30%, which significantly improved application performance."]}
 ,
      {
       name: "Torinit Technologies",
@@ -20,13 +20,11 @@ export const info = {
       startDate: "Oct 2022",
       endDate: "Feb 2024",
       description: [
-        "✓ Wrote performant, readable code for various applications",
-        "✓ Debugged issues and refactored code for various features",
-        "✓ Built responsive web pages",
-        "✓ Communicated with Department Employees for Requirements",
-        "✓ Developed software currently in production",
-        "✓ Making changes (fixing/upgrading) to existing applications",
-        "✓ Came up with solutions for existing issues",
+        "✓ Developed clean, modular code for various client applications, ensuring scalability and ease of maintenance.",
+        "✓ Identified and resolved bugs in production environments, improving application stability and functionality.",
+        "✓ Designed and implemented user-friendly, responsive web pages, enhancing user engagement and satisfaction.",
+        "✓ Led the development of production software by coordinating with cross-functional teams, adhering to project timelines.",
+        "✓ Upgraded existing software applications with new features and technologies, increasing their value to users."
       ],
     },
     {
@@ -35,17 +33,17 @@ export const info = {
       startDate: "Dev 2021",
       endDate: "Sept 2022",
       description: [
-        "✓ Responsible for the development and implementation of web applications based on client requirements.",
-        "✓ Enhance and improve the existing system.",
-        "✓ Created responsive websites from scratch.",
-        "✓ Support and development of new functionality for already existing projects.",
+        "✓ Spearheaded the development of customized web applications for diverse clients, meeting their unique business needs.",
+        "✓ Refined and optimized existing systems to improve performance, security, and usability.",
+        "✓ Designed intuitive, responsive websites from scratch, ensuring cross-browser compatibility and mobile-first principles.",
+        "✓ Expanded the functionality of ongoing projects by integrating advanced features and tools, enhancing user experience.",
       ],
     }
   ],
 
   education: [
     {
-      name: "A D Patel Institute of Technology",
+      name: "A D Patel Institute of Technology (GTU)",
       location: "Vidyangar, Gujarat, India",
       startDate: "2017",
       endDate: "2021",
@@ -54,7 +52,7 @@ export const info = {
   ],
 
   socialMedia: {
-    // github: "https://github.com/uzzii-21",
+    github: "https://github.com/rrchampavat",
     email: "rrchampavat1110@gmail.com",
     linkedin: "https://www.linkedin.com/in/rutvikrajsinh-champavat/",
   },
